@@ -5,7 +5,7 @@ import urllib.request
 import tarfile
 
 st.set_page_config(page_title="Word 轉換神器", page_icon="🖨️", layout="wide")
-st.title("阿凱老師的 Word 轉換神器 🖨️")
+st.title("Word 轉換神器 🖨️")
 
 # =======================================================
 # 轉檔引擎初始化
